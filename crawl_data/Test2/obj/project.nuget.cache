@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUH+0uR1CWg=",
+  "success": true,
+  "projectFilePath": "E:\\Test2\\Test2\\Test2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\google.protobuf\\3.29.3\\google.protobuf.3.29.3.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\grpc.core.api\\2.67.0\\grpc.core.api.2.67.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\grpc.net.client\\2.67.0\\grpc.net.client.2.67.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\grpc.net.common\\2.67.0\\grpc.net.common.2.67.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.2\\microsoft.visualstudio.azure.containers.tools.targets.1.21.2.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\openai\\2.1.0\\openai.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\qdrant.client\\1.13.0\\qdrant.client.1.13.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\selenium.support\\4.29.0\\selenium.support.4.29.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\selenium.webdriver\\4.29.0\\selenium.webdriver.4.29.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\selenium.webdriver.chromedriver\\134.0.6998.3500\\selenium.webdriver.chromedriver.134.0.6998.3500.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hoang Anh Vu\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

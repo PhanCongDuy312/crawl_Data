@@ -1,0 +1,17 @@
+﻿version: '3.8'
+
+services:
+  app:
+    build:
+      context: ./Test2  # Chỉ định thư mục chứa Dockerfile
+      dockerfile: Dockerfile
+    container_name: my-dotnet-container
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    volumes:
+      - C:/Data:/Data  # Đảm bảo lưu file vào đúng thư mục trên Windows
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - DISPLAY=:99  # Cấu hình cho Xvfb
+    restart: always
